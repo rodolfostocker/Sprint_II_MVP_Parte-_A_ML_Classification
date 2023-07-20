@@ -26,5 +26,6 @@ de processamento dos dados, dependendo da natureza, complexidade e volume dos da
 dos resultados para obter previsões mais precisas. Ambas as técnicas são importantes e têm potencial para garantir uma análise de dados confiável e precisa.
 
 Elaborado: Rodolfo Stocker
+
 documentos:
 https://github.com/rodolfostocker/Sprint_II_MVP_Parte-_A_ML_Classification/blob/main/MVP_Sprint_II_ML_concentric_clouds_Classifier_RS.ipynb
